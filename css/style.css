@@ -1,0 +1,254 @@
+body{
+  margin: 0%;
+  width: 100%
+  height: 100%;
+}
+
+/*head*/
+header{
+  background: url(../images/banner.jpg);
+  background-size: cover;
+  
+  height: 600;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.navigation{
+  background: -webkit-linear-gradient(black,transparent);
+  font-size: 20px;
+  border: none;
+  color: whitesmoke;
+  
+}
+
+.navbar-nav>li>a{
+  color: whitesmoke;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+
+#myNavbar{
+ position: relative;
+ width: 100%;
+ z-index: 999;
+ 
+ 
+}
+.icon-bar{
+  background-color: #676767
+}
+.tf{
+color: rgb(255, 187, 0);
+}
+.content{
+    
+  text-align: center;
+  margin-bottom: 100px;
+  margin-top: 100px;
+  color: beige;
+  
+}
+#navHead{
+  font-size: 450%;
+}
+
+
+ 
+  #header{
+           font-size: 200%;
+           color:white;
+           font-weight: bolder;
+           
+  }
+ 
+  .book{
+    background-color: black;
+  }
+  .VIEW{
+    color: #000;
+  }
+  #image{
+    line-height: 0%;
+  }
+  .top{
+    background:  -webkit-linear-gradient(black,transparent);
+    border: none;
+    color: white;
+   }
+  
+  /*ing*/
+  #Thead2{
+    background: url(../images/ingredent.jpg);
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    color: aliceblue;
+    position: relative;
+  }
+  .shaded{
+    
+    margin-top: 3%;
+   margin-left: 40%;
+   margin-bottom: 10%;
+   text-align: center;
+   background-color: rgba(00, 00,00, 0.5);
+   padding:3%;
+  }
+  
+  #para{
+    margin-bottom: 10%;
+  }
+
+#size{
+    width: 20%;
+    height: 20%;
+    margin: 6%;
+}
+/*guest*/
+#Tfoot1{
+    background-image: url(../images/reviews-banner.jpg);
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    color: aliceblue;
+    background-repeat: no-repeat
+    
+}
+.shadow{
+    background-color: rgba(00, 00,00, 0.8);
+    margin-top: 3%;
+    margin-left: 30%;
+    margin-bottom: 10%;
+    text-align: center;
+    padding: 3%;
+}
+#spacing{
+    margin-bottom: 15%;
+}
+/*chef*/
+.aligning{
+  text-align: center;
+  
+}
+.pass{
+  margin-right: 5%;
+  margin-top: 10%;
+  margin-bottom: 10%;
+}
+#img{
+  height: 30%;
+  margin-top: 10%;
+  
+}
+#dish{
+  width: 85%;
+  margin-top: 20%;
+}
+/*books*/
+#img2{
+  margin-top: 3%;
+  margin-bottom: 5%;
+  margin-left: 0%;
+  
+  
+}
+#gap{
+
+  margin-top: 5%;
+}
+#book1{
+  margin-top: 5%;
+}
+
+.input{
+  color:  rgb(255, 187, 0);
+  font-weight: bolder;   
+  font-size: 20px;
+  font-family: 'Times New Roman', Times, serif
+}
+.form-data p{
+  width: 200px;
+}
+
+.form-data2 p{
+  width: 200px;
+}
+
+#booking{
+  width: 150px;
+  color: whitesmoke;
+  background-color:  rgb(255, 187, 0);
+  
+  margin-top: 20px
+}
+
+#acurate{
+  text-align: center;
+  padding: 50px 0 50px 0;
+}
+.form{
+  margin-left: 5%
+}
+#yellow{
+ color: rgb(255, 187, 0);
+ font-weight: bold;
+ font-family: 'Times New Roman', Times, serif;
+}
+/*foot*/
+footer{
+  background: #000;
+ color: whitesmoke;
+ padding-top: 50px;
+}
+footer h4{
+  font-size: 25px;
+  padding-bottom: 15px;
+}
+/*menu*/
+.menu-sec{
+  margin-bottom: 5%;
+}
+.menu-pic{
+  background-image: url(about-background.jpg);
+  
+}
+menu.h2{
+  
+  font-size: 250%;
+  font-family: 'Times New Roman', Times, serif  ;
+}
+h4.fresh{
+  border-bottom:1px  rgb(255, 187, 0) solid;
+  color: rgb(255, 187, 0);
+  font-size: 150%;
+  font-family: 'Times New Roman', Times, serif;
+}
+.salad{
+ color:rgb(255, 187, 0);
+text-align: center;
+font-family: 'Times New Roman', Times, serif;
+
+}
+.appitis{
+  color:  rgb(255, 187, 0);
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+}
+.start{
+  color:  rgb(255, 187, 0);
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+}
+.dishes{
+  color:  rgb(255, 187, 0);
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+}
+.menu-1{
+width: 90%;
+}
+
+.menu-2{
+width: 90%;
+margin-right: 50px;
+}
